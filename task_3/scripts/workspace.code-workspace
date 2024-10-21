@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "src",
+			"path": "../../.."
+		},
+		{
+			"name": "Desktop",
+			"path": "../../../../../Desktop"
+		}
+	],
+	"settings": {}
+}
